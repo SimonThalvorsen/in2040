@@ -1,2 +1,1 @@
-# h23
-Courses from h23 (autumn2023)
+# Coursework for IN2040 - Functional programming
