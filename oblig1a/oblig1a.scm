@@ -1,4 +1,3 @@
-#lang scheme
 ;;IN2040 oblig1a simontha
 
 ;;Oppgave 1

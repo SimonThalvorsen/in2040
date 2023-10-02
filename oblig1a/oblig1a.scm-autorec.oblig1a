@@ -1,6 +1,0 @@
-#lang racket
-;;IN2040 oblig1a simontha
-
-;;Oppgave 1
-;; A) 30 B) feil, forventet en prosedyre, fikk 5 C) 
-(* ( 4 + 2) (5))
